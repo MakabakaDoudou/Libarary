@@ -1,4 +1,4 @@
 Git is a distributed control system.
 Git is free distributed under the GPL.
 Git has a mutable index called stage.
-Git tracks changes.
+Creating a new bracnh is quick and simple.
